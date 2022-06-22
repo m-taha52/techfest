@@ -19,7 +19,7 @@ https://techfest-tanzania.netlify.app/
 - Open Source
 
 ## Screenshots
-![TF TZ](https://i.ibb.co/RBmKqJ5/techfest-tanzania-netlify-app-HIgh-Res-Screenshot.png)
+![TF TZ](https://i.ibb.co/VQZGskK/techfest-tanzania-netlify-app-HIgh-Res-Screenshot.png)
 
 ## License
 
